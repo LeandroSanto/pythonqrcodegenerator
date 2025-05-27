@@ -11,8 +11,6 @@ antes de executar, instale as seguintes bibliotecas:
 
 Small python application that generates api_rest to generate QR codes.
 This small application uses Fask, QRcode[Pil]
-Português
-Inglês
 
 Instructions:
 Before running, install the following libraries:
