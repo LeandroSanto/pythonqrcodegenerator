@@ -1,21 +1,24 @@
-Pequena aplicação python que gera api_rest para gerar códigos QR.
-Essa pequena aplicação utiliza Fask, QRcode[Pil]
+# QR Code Generator API 🔍
 
-Instruções:
-antes de executar, instale as seguintes bibliotecas:
-  pip install flask
-  pip install qrcode
-  pip install qrcode[pil]
+Uma aplicação Python leve e eficiente para gerar QR Codes via API REST, construída com Flask e QRCode.  
 
-  python.\qr_api.py
 
-Small python application that generates api_rest to generate QR codes.
-This small application uses Fask, QRcode[Pil]
+## ✨ Recursos / Features  
 
-Instructions:
-Before running, install the following libraries:
-  pip install flask
-  pip install qrcode
-  pip install qrcode[pil]
+- Gera QR Codes a partir de texto/URLs  
+- Fácil integração com outros sistemas  
+- Leve e rápido  
+- Suporte a personalização (em breve!)  
 
-  python.\qr_api.py
+## 🚀 Começando / Getting Started  
+
+### Pré-requisitos / Prerequisites  
+
+- Python 3.x instalado  
+- pip para gerenciamento de pacotes  
+
+### Instalação / Installation  
+
+```bash
+# Instale as dependências:
+pip install flask qrcode qrcode[pil]
